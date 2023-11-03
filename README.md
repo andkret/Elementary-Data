@@ -1,5 +1,7 @@
 # Elementary-Data
- 
+Use these grants in a worksheet to give Elementary Cloud access to the meta data in Snowflake 
+
+
 ## Essential grants
 These grants give Elementary access to the Elementary Schema
 
